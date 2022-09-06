@@ -1,0 +1,45 @@
+.apk {
+    background-color: #f4e6e6;
+}
+
+.text-center {
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 7px;
+}
+
+.form-group {
+    margin-bottom: 11px;
+}
+
+.form-control {
+    font-weight: 400;
+}
+
+.form-label {
+    font-weight: 700;
+}
+
+.feedback {
+    display: flex;
+    flex-direction: row;
+    margin-top: -700px;
+    margin-left: 780px;
+    background-color: #ffffff;
+    position: absolute;
+    box-sizing: border-box;
+    border: 1px dotted #000000;
+    border-radius: 5px;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    width: 400px;
+}
+
+.feedback h5, p, h2 {
+    margin-left: 10px;
+}
+
+.feedbackhead {
+    font-stretch: extra-expanded;
+    font-style: italic;
+    margin-bottom: 50px;
+}
